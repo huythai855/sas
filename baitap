@@ -1,0 +1,650 @@
+From vnspoj.blogspot.com
+
+Duyệt vét - Đệ quy - Quay lui 
+http://vn.spoj.com/problems/BONES/ - soution - code 
+http://vn.spoj.com/problems/NDCCARD/ - solution - code 
+http://vn.spoj.com/problems/VMMTFIVE/ - solution - code
+http://vn.spoj.com/problems/C11TRCNT/ - solution - code 
+http://vn.spoj.com/problems/PIZZALOC/ - solution - code 
+http://vn.spoj.com/problems/BONUS13/ - solution - code 
+http://vn.spoj.com/problems/DHLOCK/ - solution - code
+http://vn.spoj.com/problems/NKABD/ - solution - code
+http://vn.spoj.com/problems/VRATF/ - solution - code
+http://www.spoj.com/problems/ARDA1/ - vn - solution - code
+http://www.spoj.com/problems/CANDY2/ - vn - solution - code
+http://www.spoj.com/problems/PALIN/ - solution - code
+http://vn.spoj.com/problems/C11SEQ3/ - solution - code
+http://vn.spoj.com/problems/MINCUT/ - solution - code
+http://vn.spoj.com/problems/NCOB/ - solution - code 
+http://vn.spoj.com/problems/NKLETTER/ - solution - code
+http://vn.spoj.com/problems/VMDAOBIT/ - solution
+http://vn.spoj.com/problems/ROTATION/ - solution
+http://vn.spoj.com/problems/NKNUMFRE/ - solution
+http://vn.spoj.com/problems/MYSTERY/ - solution
+http://vn.spoj.com/problems/BALLGMVN/ - solution
+http://vn.spoj.com/problems/AUCTION/ - solution
+http://vn.spoj.com/problems/WCALC/ - solution
+http://vn.spoj.com/problems/C11PNUM/ - solution
+http://vn.spoj.com/problems/LSTAR/ - solution
+http://vn.spoj.com/problems/CSTARS/ - solution
+http://vn.spoj.com/problems/DHFUNC/ - solution
+http://vn.spoj.com/problems/VMSUBSTR/ - solution
+http://vn.spoj.com/problems/VOSRTRI/ - solution
+http://vn.spoj.com/problems/VMDAOBIT/ - solution
+http://vn.spoj.com/problems/COUNTCBG/ - code
+http://vn.spoj.com/problems/HOUSES/ - code
+
+Tham lam
+http://vn.spoj.com/problems/BLOPER/ - solution - code 
+http://vn.spoj.com/problems/BWPOINTS/ - solution - code
+http://vn.spoj.com/problems/CAR/ - solution - code
+http://vn.spoj.com/problems/C11BEAU/ - solution - code
+http://vn.spoj.com/problems/CBUYING/ - solution - code
+http://vn.spoj.com/problems/DTDOI/ - solution - code
+http://vn.spoj.com/problems/BONGDA/ - solution - code
+http://vn.spoj.com/problems/PATULJCI/ -en -vn -solution- code
+http://vn.spoj.com/problems/LASCALE/ - solution - code
+http://vn.spoj.com/problems/NEAREST/ - solution
+
+Duyệt nhánh cận
+http://vn.spoj.com/problems/VMMTFIVE/ - solution - code
+http://vn.spoj.com/problems/V8SCORE/ - solution
+http://vn.spoj.com/problems/C11PNUM/ - solution
+
+Sắp xếp
+http://vn.spoj.com/problems/ACMNB/- solution - code 
+http://vn.spoj.com/problems/BWPOINTS/ - solution - code
+http://vn.spoj.com/problems/C11ID/ - solution - code
+http://vn.spoj.com/problems/CAR/ - solution - code
+http://vn.spoj.com/problems/CBUYING/ - solution - code
+http://vn.spoj.com/problems/DHEXP/ - solution - code
+http://vn.spoj.com/problems/INSUL/ - solution - code
+
+Quy hoạch động
+http://vn.spoj.com/problems/MAXARR1/- solution - code
+http://vn.spoj.com/problems/PTRANG/ - solution - code 
+http://vn.spoj.com/problems/QBMAX/- solution - code
+http://vn.spoj.com/problems/QBSTR/- solution - code
+http://vn.spoj.com/problems/LNACS/- solution - code
+http://vn.spoj.com/problems/QBSEQ/- solution - code
+http://vn.spoj.com/problems/NKPALIN/- solution - code
+http://vn.spoj.com/problems/NKTICK/- solution - code
+http://vn.spoj.com/problems/VCOWFLIX/- solution - code
+http://www.spoj.com/problems/STREET/(vn)- solution - code
+http://vn.spoj.com/problems/AMSSEQ/- solution - code
+http://vn.spoj.com/problems/BCDIV/- solution - code
+http://vn.spoj.com/problems/LATGACH/- solution - code
+http://vn.spoj.com/problems/BLGEN/ - solution - code
+http://vn.spoj.com/problems/BONUS/ - solution - code
+http://vn.spoj.com/problems/C11CAVE/- solution - code
+http://vn.spoj.com/problems/C11KM/- solution - code
+http://vn.spoj.com/problems/MPILOT/(en) - solution - code
+http://vn.spoj.com/problems/SETNJA/(en) - solution - code
+http://vn.spoj.com/problems/TREEPATH/ - solution - code
+http://vn.spoj.com/problems/VSTEPS/ (en) - solution - code
+http://vn.spoj.com/problems/QBPAL/ - solution - code
+http://vn.spoj.com/problems/M3TILE/ (en) - solution - code
+http://www.spoj.com/problems/BYTESH1/ (vn) - solution - code
+http://vn.spoj.com/problems/NKSEQ/ - solution - code
+http://vn.spoj.com/problems/NKCABLE/ - solution - code
+http://vn.spoj.com/problems/NKREZ/ - solution - code
+http://vn.spoj.com/problems/MBLAST/ (en)- solution - code
+http://vn.spoj.com/problems/DTDOI/ - solution - code
+http://vn.spoj.com/problems/LSFIGHT/ - solution - code
+http://vn.spoj.com/problems/MAXCUB/ - solution - code
+http://vn.spoj.com/problems/PBCDEM/ - solution - code
+http://vn.spoj.com/problems/COUNTPL/ - solution - code
+http://vn.spoj.com/problems/LQDGONME/ - solution - code
+http://vn.spoj.com/problems/NKPATH/ - solution - code
+http://vn.spoj.com/problems/PVOI14_4/ - solution - code
+http://vn.spoj.com/problems/HAF1/ - solution - code
+http://vn.spoj.com/problems/STMERGE/ - solution - code
+http://vn.spoj.com/problems/KKDD/ - solution - code
+http://vn.spoj.com/problems/MMAXPER/ (en)- solution - code
+http://vn.spoj.com/problems/HELPPM/ (en) - solution - code
+http://vn.spoj.com/problems/QBTICKET/ - solution - code
+http://vn.spoj.com/problems/BARICAVN/ - solution - code
+http://vn.spoj.com/problems/BARIC/ - solution - code
+http://vn.spoj.com/problems/C11BC1/ - solution - code
+http://vn.spoj.com/problems/KAGAIN/ - solution - code
+http://vn.spoj.com/problems/QBRECT/ - solution - code
+http://vn.spoj.com/problems/CREC01/ - solution - code
+http://vn.spoj.com/problems/QBSQUARE/ - solution - code
+http://www.spoj.com/problems/MAXSUMSQ/ - solution - code
+http://vn.spoj.com/problems/LEM6/ - solution - code
+http://vn.spoj.com/problems/C11SUM/ - code
+http://vn.spoj.com/problems/CHNTOWER/ - code
+http://vn.spoj.com/problems/CTNBULLS/ - code
+http://vn.spoj.com/problems/DTGAME/ - code
+http://vn.spoj.com/problems/EGG/ - code
+http://vn.spoj.com/problems/HSPC14H/ - code
+http://vn.spoj.com/problems/IVANA/ - code
+http://vn.spoj.com/problems/LEM7/ - code
+http://vn.spoj.com/problems/LINEGAME/ - code
+http://vn.spoj.com/problems/MINCUT/ - code
+http://vn.spoj.com/problems/VODIVIDE/ - code
+http://vn.spoj.com/problems/CTNOWN - solution
+http://vn.spoj.com/problems/OWN2 - solution
+http://vn.spoj.com/problems/DHCAT - solution
+http://vn.spoj.com/problems/MREPLBRC - solution
+http://vn.spoj.com/problems/DISNEY1 - solution
+http://vn.spoj.com/problems/DISNEY2 - solution
+http://vn.spoj.com/problems/QOS/ - solution
+http://vn.spoj.com/problems/LCS2X/ - solution
+http://vn.spoj.com/problems/VOMARBLE/ - solution
+http://vn.spoj.com/problems/NSRAIL/ - solution
+http://vn.spoj.com/problems/BCHESS/ - solution
+http://vn.spoj.com/problems/KINGDOM/ - solution
+http://vn.spoj.com/problems/KVIP/ - solution
+http://vn.spoj.com/problems/VBOARD/ - solution
+http://vn.spoj.com/problems/ELEVATOR/ - solution
+http://vn.spoj.com/problems/DPER/ - solution
+http://vn.spoj.com/problems/VOSFENCE/ - solution
+http://vn.spoj.com/problems/TREASRE/ - solution
+http://vn.spoj.com/problems/NHPAINT/ - solution
+http://vn.spoj.com/problems/VOBOARD3/ - solution
+http://vn.spoj.com/problems/C11STAR/ - solution
+http://vn.spoj.com/problems/DIGIT/ - solution
+http://vn.spoj.com/problems/LGAME/ - solution
+http://vn.spoj.com/problems/QTDIVSEQ/ - solution
+http://vn.spoj.com/problems/QTGIFT1/ - solution
+http://vn.spoj.com/problems/QTREEV/ - solution
+http://vn.spoj.com/problems/C11ROOKS/ - solution
+http://vn.spoj.com/problems/DHCIRCUI/ - đề - solution
+http://vn.spoj.com/problems/PARIGAME/ - solution
+http://vn.spoj.com/problems/SCOLLECT/ - solution
+http://vn.spoj.com/problems/VMATRIX/ - solution
+http://vn.spoj.com/problems/NKCNT1/ - solution
+http://vn.spoj.com/problems/CROSS12/ - solution
+http://vn.spoj.com/problems/SKFIB/ - solution
+http://vn.spoj.com/problems/VMRR/ - solution
+http://vn.spoj.com/problems/VMEMPIRE/ - solution
+http://vn.spoj.com/problems/VMYT/ - solution
+http://vn.spoj.com/problems/VMROPES/ - solution
+http://vn.spoj.com/problems/VMPACKAGE/ - solution
+---------------------------------------------------
+http://vn.spoj.com/problems/LQDFIBO
+http://vn.spoj.com/problems/SPFIBO
+http://vn.spoj.com/problems/MBIPALIN
+http://vn.spoj.com/problems/MSE08G
+http://vn.spoj.com/problems/MINMOVE
+http://vn.spoj.com/problems/NKNL
+http://vn.spoj.com/problems/NKNL2
+http://vn.spoj.com/problems/VOLIS
+http://vn.spoj.com/problems/LEM5
+http://vn.spoj.com/problems/NKPOLY
+http://vn.spoj.com/problems/C11GAME2
+http://vn.spoj.com/problems/V11WATER
+http://vn.spoj.com/problems/PTQMSEQ
+http://vn.spoj.com/problems/MNERED
+http://vn.spoj.com/problems/KSEQ1
+http://vn.spoj.com/problems/VMSWAP
+
+Quy hoạch động dùng nhân ma trận
+http://vn.spoj.com/problems/LATGACH4/ - solution - code
+http://vn.spoj.com/problems/ONE4EVER/ - solution - code
+http://www.spoj.com/problems/SEQ/ - vn - solution - code
+http://vn.spoj.com/problems/FBRICK/ - solution - code
+http://vn.spoj.com/problems/C11CAL/ - solution - code
+http://vn.spoj.com/problems/PA06ANT/ - solution - code
+http://vn.spoj.com/problems/C11DK2/ - solution - code
+http://vn.spoj.com/problems/QTLOVE2/ - solution - code
+http://vn.spoj.com/problems/DHLOCO/ - solution - code
+http://vn.spoj.com/problems/INKPRINT/ - solution
+http://vn.spoj.com/problems/FIB/ - code
+
+Quy hoạch động 
+Vị trí cấu hình - Thứ tự từ điển
+http://vn.spoj.com/problems/SPBINARY/ - solution - code
+http://vn.spoj.com/problems/BINARY2/ - solution - code
+http://vn.spoj.com/problems/NKTOSS/ - solution - code
+http://vn.spoj.com/problems/SHHV/ - solution - code
+http://vn.spoj.com/problems/SHCH/ - solution-code_C++(Java)
+http://vn.spoj.com/problems/SHTH/ - solution - code
+http://vn.spoj.com/problems/CHUOIHAT/ - solution - code
+http://vn.spoj.com/problems/CATALAN/ - solution - code
+http://vn.spoj.com/problems/M00PAIR/ - en - solution - code
+http://vn.spoj.com/problems/NKLEXIC - solution 
+http://vn.spoj.com/problems/NTSURF - solution 
+http://vn.spoj.com/problems/BINARY - solution 
+http://vn.spoj.com/problems/MCLONUM - solution 
+http://vn.spoj.com/problems/MZVRK - solution 
+http://vn.spoj.com/problems/TPMZVRK - solution 
+http://vn.spoj.com/problems/VN_ZR_I - solution 
+http://vn.spoj.com/problems/VN_ZR_II - solution 
+http://vn.spoj.com/problems/KPASS - solution
+http://vn.spoj.com/problems/DEGREE - solution
+http://vn.spoj.com/problems/TAXID - solution 
+http://vn.spoj.com/problems/C11SEQ2 - solution
+http://vn.spoj.com/problems/NK05ORDR - solution
+http://vn.spoj.com/problems/DEMSO - solution
+http://vn.spoj.com/problems/CLEAR - solution
+http://vn.spoj.com/problems/VMCODE/ - solution
+http://vn.spoj.com/problems/MDIGITS
+http://vn.spoj.com/problems/SPSUM
+http://vn.spoj.com/problems/LQDNUMS
+http://vn.spoj.com/problems/TRES
+http://vn.spoj.com/problems/CTNBULLS
+http://vn.spoj.com/problems/DIGIT
+
+Quy hoạch động 
+Dãy con tăng dài nhất
+http://vn.spoj.com/problems/LIQ/ - solution - code
+http://vn.spoj.com/problems/LIS/ - solution - code  (1)  (2)
+http://vn.spoj.com/problems/SPSEQ/ - solution - code
+http://vn.spoj.com/problems/BEADSNB/ - solution - code
+http://vn.spoj.com/problems/QBDIVSEQ/ - solution - code
+http://vn.spoj.com/problems/MDOLLS/ - solution - code
+http://vn.spoj.com/problems/MSTICK/ - solution - code
+http://vn.spoj.com/problems/MCARDS/ - solution - code
+http://vn.spoj.com/problems/VOPIG/ - solution
+
+Quy hoạch động trạng thái
+http://vn.spoj.com/problems/QBSELECT - solution
+http://vn.spoj.com/problems/QBGAME - solution
+http://vn.spoj.com/problems/LEM3 - solution
+http://vn.spoj.com/problems/MIXUP2 - solution
+http://vn.spoj.com/problems/COWGIRL - solution
+http://vn.spoj.com/problems/MAUGIAO - solution
+http://vn.spoj.com/problems/VKNIGHTS - solution
+http://vn.spoj.com/problems/C11CUT/ - solution
+
+Thuật trò chơi
+http://vn.spoj.com/problems/NK05MNIM/ - solution – code
+http://vn.spoj.com/problems/MMMGAME/ - solution - code
+
+Toán 
+(số học, tổ hợp, hình học)
+http://vn.spoj.com/problems/C11BEAU/ - solution - code
+http://vn.spoj.com/problems/C11ID/ - solution - code
+http://vn.spoj.com/problems/TCDFZ/ - solution - code
+http://vn.spoj.com/problems/C11TRCNT/ - solution - code
+http://vn.spoj.com/problems/PVOI14_1/ - solution - code
+http://vn.spoj.com/problems/BLGEN/ - solution - code
+http://vn.spoj.com/problems/PVOI14_5/ - solution - code
+http://vn.spoj.com/problems/QBPOINT/ - solution - code
+http://www.spoj.com/problems/CANDY/ - vn - solution - code
+http://www.spoj.com/problems/CANDY3/ - vn - solution- code
+http://www.spoj.com/problems/CANDY4/ - vn - solution - code
+http://vn.spoj.com/problems/CT/ - en - vn - solution - code
+http://www.spoj.com/problems/TWOSQRS/ - solution - code
+http://www.spoj.com/problems/FACT0/ - vn - solution - code 
+http://www.spoj.com/problems/FCTRL/ - vn - solution - code
+http://www.spoj.com/problems/GCD2/ - vn - solution - code
+http://vn.spoj.com/problems/INSUL/ - solution - code
+http://vn.spoj.com/problems/LEM6/ - solution - code
+http://vn.spoj.com/problems/CRYPTKEY/ - solution
+http://vn.spoj.com/problems/TFIELD/ - solution
+http://vn.spoj.com/problems/VMYT/ - solution
+http://vn.spoj.com/problems/BALLGMVN/ - solution
+http://vn.spoj.com/problems/VORAIN/ - solution
+http://vn.spoj.com/problems/VOEASY/ - solution
+http://vn.spoj.com/problems/WCALC/ - solution
+http://vn.spoj.com/problems/DPER/ - solution
+http://vn.spoj.com/problems/VOSEXP/ - solution
+http://vn.spoj.com/problems/DHFUNC/ - solution
+http://vn.spoj.com/problems/TNHTEST/ - solution
+http://vn.spoj.com/problems/QTDIVSEQ/ - solution
+http://vn.spoj.com/problems/DHCIRCUI/ - đề - solution
+http://vn.spoj.com/problems/VMCANDLE/ - solution
+http://vn.spoj.com/problems/PRAVO/ - solution
+http://vn.spoj.com/problems/PERC/ - solution
+http://vn.spoj.com/problems/SQUARES/ - solution
+http://vn.spoj.com/problems/VMCXG/ - solution
+http://www.spoj.com/problems/FACTCG2/ - vn - code
+http://www.spoj.com/problems/FCTRL2/ - vn - code
+http://www.spoj.com/problems/GCD3/ - vn - code
+http://www.spoj.com/problems/PRIME1/ - code
+http://www.spoj.com/problems/RANJAN02/ - code
+http://www.spoj.com/problems/SMALL/ - code
+http://vn.spoj.com/problems/COUNTCBG/ - code
+http://vn.spoj.com/problems/CWAY/ - code
+http://vn.spoj.com/problems/FINDNUM/ - code
+http://vn.spoj.com/problems/HSPC14A/ - code
+http://vn.spoj.com/problems/HSPC14I/ - code
+http://vn.spoj.com/problems/HSPC14J/ - code
+http://vn.spoj.com/problems/KCOIN/ - code
+
+Xử lí số nguyên lớn - BigInteger
+http://vn.spoj.com/problems/SHCH/ (xem Cấu hình-Thứ tự từ điển)
+http://vn.spoj.com/problems/SHTH/ (xem Cấu hình-Thứ tự từ điển)
+http://vn.spoj.com/problems/CHUOIHAT/ (xem Cấu hình-Thứ tự từ điển)
+http://vn.spoj.com/problems/SPBINARY/ (xem Cấu hình-Thứ tự từ điển)
+http://vn.spoj.com/problems/NKTOSS/ (xem Cấu hình-Thứ tự từ điển)
+http://vn.spoj.com/problems/M00PAIR/ (xem Cấu hình-Thứ tự từ điển)
+http://www.spoj.com/problems/M00PAIR/ (xem Cấu hình-Thứ tự từ điển)
+http://vn.spoj.com/problems/SETNJA (xem Quy hoạch động)
+http://www.spoj.com/problems/SETNJA/ (xem Quy hoạch động)
+http://vn.spoj.com/problems/TREEPATH/ (xem Quy hoạch động)
+http://vn.spoj.com/problems/LATGACH/ (xem Quy hoạch động)
+http://vn.spoj.com/problems/PBCDEM/ (xem Quy hoạch động)
+http://www.spoj.com/problems/CANDY3/ (xem Toán)
+http://vn.spoj.com/problems/CWAY/ (xem Toán)
+
+Cây - Quy hoạch động và LCA
+http://vn.spoj.com/problems/CTREE/ - solution - code
+http://vn.spoj.com/problems/STONE1/ - solution - code
+http://vn.spoj.com/problems/NTTREE/ - solution - code
+http://vn.spoj.com/problems/MTREE/- en-  solution - code
+http://vn.spoj.com/problems/NTPFECT/ - solution - code
+http://www.spoj.com/problems/LCA/ - vn - solution - code
+http://vn.spoj.com/problems/HBTLCA/ - solution - code
+http://vn.spoj.com/problems/LUBENICA/ - solution - code
+http://vn.spoj.com/problems/ITREE/ - solution
+http://vn.spoj.com/problems/VOTREE/ - solution
+http://vn.spoj.com/problems/UPGRANET/ - solution
+
+Trie
+http://www.spoj.com/problems/DICT/ - vn -solution - code
+http://www.spoj.com/problems/ZNANSTVE/ - vn - solution - code
+http://www.spoj.com/problems/PHONELST/ - vn - solution - code
+http://vn.spoj.com/problems/CHAIN2/ - solution - code
+http://vn.spoj.com/problems/SEC/ - solution - code
+http://vn.spoj.com/problems/LTPMSEQ/ - code
+
+Z Function - KMP - Hash
+http://vn.spoj.com/problems/SUBSTR/ Z - code
+http://vn.spoj.com/problems/SUBSTR/ KMP - code
+http://vn.spoj.com/problems/SUBSTR/ hash- code
+http://www.spoj.com/problems/SUFEQPRE/ - vn - solution - code
+http://www.spoj.com/problems/DISUBSTR/ - vn - solution - code
+http://www.spoj.com/problems/QUERYSTR/ - vn - solution - code
+http://vn.spoj.com/problems/C11STR2/ - solution - code
+http://vn.spoj.com/problems/PALINY/ - solution_1,2 - code_1,2
+http://www.spoj.com/problems/EPALIN/ - vn - solution - code
+http://vn.spoj.com/problems/DTKSUB/ - solution - code
+http://www.spoj.com/problems/NHAY/ - vn - solution - code
+http://vn.spoj.com/problems/VOBIGNUM/ - solution
+http://vn.spoj.com/problems/VOSTR/ - solution
+http://vn.spoj.com/problems/MCHAOS/ - solution
+
+Sắp xếp Topo
+http://vn.spoj.com/problems/NKLEAGUE/ - solution
+http://vn.spoj.com/problems/KCOLLECT/ - solution – code
+http://vn.spoj.com/problems/NKJUMP/ - solution - code
+http://vn.spoj.com/problems/BIC
+
+Duyệt bằng cách chia đôi tập hợp
+http://vn.spoj.com/problems/VECTOR/ - solution - code
+http://vn.spoj.com/problems/LQDDIV/ - code
+http://vn.spoj.com/problems/CHNREST/ - solution 
+http://vn.spoj.com/problems/COIN34/ - solution - code
+
+Chặt nhị phân
+http://vn.spoj.com/problems/MOVE12/ - solution
+http://vn.spoj.com/problems/LEM1/ - solution
+http://vn.spoj.com/problems/CRUELL2/ - solution
+http://vn.spoj.com/problems/NDCCARD/ - solution
+http://vn.spoj.com/problems/TOTALODD/ - solution
+http://vn.spoj.com/problems/VOPIG/ - solution
+http://vn.spoj.com/problems/NKSGAME/ - solution - code
+http://vn.spoj.com/problems/QBROBOT/ - solution - code
+http://vn.spoj.com/problems/DGOLD/ - solution
+http://vn.spoj.com/problems/C11POST/ - solution
+http://vn.spoj.com/problems/VOGCDSUM/ - solution
+http://vn.spoj.com/problems/VMCANDLE/ - solution
+http://vn.spoj.com/problems/PRAVO/ - solution
+http://vn.spoj.com/problems/ASSIGN1/ - solution - code
+http://vn.spoj.com/problems/MTWALK/ - en - solution - code
+http://vn.spoj.com/problems/NK05ORDR - solution
+http://vn.spoj.com/problems/RIDDLE/ - solution
+
+Heap (priority_queue) 
+Heap - Map - Set : 
+http://vn.spoj.com/problems/QBHEAP/ - solution - code
+http://vn.spoj.com/problems/CPPSET/ - code
+http://vn.spoj.com/problems/MSE07B/ - en - solution - code
+http://vn.spoj.com/problems/DHRECT/ - solution - code
+http://vn.spoj.com/problems/HEAP1/ - solution - code
+http://vn.spoj.com/problems/KMIN/ - solution - code
+http://vn.spoj.com/problems/BALLGAME/ - solution - code
+http://vn.spoj.com/problems/MEDIAN - solution
+http://vn.spoj.com/problems/MAXARR2
+http://vn.spoj.com/problems/MAXARR3
+----------------------------------------------------------------
+Treap (Tree + Heap) :
+http://www.spoj.com/problems/GSS6/ - solution - code
+http://vn.spoj.com/problems/CARDSHUF/ - en - solution - code
+http://vn.spoj.com/problems/ORDERSET/ - en - solution - code
+http://vn.spoj.com/problems/QMAX3VN/ - en - code
+http://vn.spoj.com/problems/QMAX4/ - code
+http://www.spoj.com/problems/QUE1/ - code
+http://www.spoj.com/problems/QUE2/ - code
+http://vn.spoj.com/problems/CARDS/ - code
+
+Stack
+http://vn.spoj.com/problems/MMASS/ - en - solution - code
+http://vn.spoj.com/problems/CHEAT/ - solution - code
+http://vn.spoj.com/problems/C11PAIRS/ - solution - code
+http://vn.spoj.com/problems/KPLANK/ - solution - code
+http://vn.spoj.com/problems/KAGAIN/ - solution - code
+http://vn.spoj.com/problems/QBRECT/ - solution - code
+http://vn.spoj.com/problems/CREC01/ - solution - code
+http://vn.spoj.com/problems/DHLEXP/ - solution - code
+http://vn.spoj.com/problems/CRECT/ - solution - code
+http://vn.spoj.com/problems/NKGOLF/ - solution - code
+
+Queue 
+http://vn.spoj.com/problems/CLOCK/ - solution - code
+http://vn.spoj.com/problems/LUCKYNUM/ - solution - code
+http://vn.spoj.com/problems/COLLECT/ - solution - code
+
+Deque (Tìm min/max trong đoạn tịnh tiến)
+http://vn.spoj.com/submit/MINK/ - solution - code
+http://vn.spoj.com/problems/KDIFF/ - solution - code
+http://vn.spoj.com/problems/BLAND/ - solution - code
+http://vn.spoj.com/problems/C11CIR/ - solution - code
+
+Binary Indexed Tree (BIT)
+http://vn.spoj.com/problems/NKINV/ - solution - code
+http://vn.spoj.com/problems/CRATE/ - solution - code
+http://www.spoj.com/problems/RATING/ - vn - solution - code
+http://vn.spoj.com/problems/KINV/ - solution - code
+http://vn.spoj.com/problems/C11SEQ/ - solution - code
+http://vn.spoj.com/problems/KMEDIAN/ - vn - sotution - code
+http://vn.spoj.com/problems/NKLUCK/ - sotution - code
+http://vn.spoj.com/problems/FOCUS/ - solution - code
+http://vn.spoj.com/problems/NKMAXSEQ/ - solution - code
+http://vn.spoj.com/problems/NKREZ/ - solution - code
+http://vn.spoj.com/problems/MEDIAN/ - solution - code
+http://vn.spoj.com/problems/PVOI14_4/ - solution - code
+http://www.spoj.com/problems/MATSUM/ - vn - solution - code
+http://www.spoj.com/problems/CCOST/ - vn - solution - code
+http://vn.spoj.com/problems/KQUERY/ - solution - code
+http://vn.spoj.com/problems/DQUERY/ - en - solution - code
+http://vn.spoj.com/problems/SWAPB/ - solution
+http://vn.spoj.com/problems/SKWLTH/ - solution
+http://vn.spoj.com/problems/PLACE/ - solution
+http://vn.spoj.com/problems/MCHAOS/ - solution
+http://www.spoj.com/problems/INCSEQ/ - code
+http://www.spoj.com/problems/INVCNT/ - code
+http://www.spoj.com/problems/NICEDAY/ - code
+
+Segment Tree (Interval Tree)
+http://vn.spoj.com/problems/NKLINEUP/ - solution - code
+http://vn.spoj.com/problems/QMAX/ - solution - code
+http://vn.spoj.com/problems/KGSS/ - vn - en - solution - code
+http://vn.spoj.com/problems/NKBRACKE/ - solution - code
+http://www.spoj.com/problems/BRCKTS/ - vn - solution - code
+http://vn.spoj.com/problems/GSS/ - solution - code
+http://www.spoj.com/problems/GSS1/ - vn  - solution - code
+http://www.spoj.com/problems/GSS3/ - solution - code
+http://www.spoj.com/problems/GSS4/ - vn - solution - code
+http://vn.spoj.com/problems/QMAX2/ - solution - code
+http://www.spoj.com/problems/MULTQ3/ - vn - solution - code
+http://www.spoj.com/problems/POSTERS/ - vn – solution  - code
+http://www.spoj.com/problems/SEGSQRSS/ - vn - solution - code
+http://vn.spoj.com/problems/CRATE/ - solution – code
+http://vn.spoj.com/problems/AREA/ - solution - code
+http://www.spoj.com/problems/GSS5/ - code
+http://www.spoj.com/problems/HORRIBLE/ - code
+http://vn.spoj.com/problems/YPKTH/ - solution - code
+http://www.spoj.com/problems/MKTHNUM/ - solution - code
+http://www.spoj.com/problems/UPDATEIT/ - code
+http://vn.spoj.com/problems/FIRS/ - code
+http://vn.spoj.com/problems/HIREHP/ - code
+
+Disjoint Set Union (DSU)
+http://vn.spoj.com/problems/IOIBIN/ - solution - code
+http://vn.spoj.com/problems/C11BC2/ - solution - code
+http://vn.spoj.com/problems/PBCGANGS/ - solution - code
+http://vn.spoj.com/problems/PBCPOINT/ - solution - code
+http://www.spoj.com/problems/NITTROAD/ - vn - solution - code
+http://vn.spoj.com/problems/VNEMPIRE/ - solution
+http://vn.spoj.com/problems/VMST/ - solution
+
+DFS - BFS
+
+http://vn.spoj.com/problems/ADS/ - solution - code
+http://vn.spoj.com/problems/PWALK/ - solution - code
+http://vn.spoj.com/problems/V8ORG/ - solution - code
+http://vn.spoj.com/problems/STNODE/ - solution - code
+http://vn.spoj.com/problems/CHESSCBG/ - solution - code
+http://vn.spoj.com/problems/STABLE/ - solution - code
+http://vn.spoj.com/problems/NKGUARD/ - solution - code
+http://vn.spoj.com/problems/MTWALK/ - en - solution - code
+http://vn.spoj.com/problems/HAOI6000/ - solution - code
+http://vn.spoj.com/problems/QBAGENTS/ - solution - code
+http://vn.spoj.com/problems/ROBOCON/ - solution - code
+http://vn.spoj.com/problems/KANDP/ - solution - code
+http://vn.spoj.com/problems/PBCPOINT/ - solution - code
+http://vn.spoj.com/problems/NKTABLE/ - solution - code
+http://vn.spoj.com/problems/CLOCK/ - solution - code
+http://vn.spoj.com/problems/MBEEWALK/ - en - solution - code
+http://vn.spoj.com/problems/MECUNG/ - solution - code
+http://vn.spoj.com/problems/PBCWATER - solution
+http://vn.spoj.com/problems/MCLEAN - solution
+http://vn.spoj.com/problems/KINGDOM/ - solution
+http://vn.spoj.com/problems/SWAPB/ - solution
+http://vn.spoj.com/problems/VMREL6/ - solution
+http://vn.spoj.com/problems/PLACE/ - solution
+http://vn.spoj.com/problems/LABUDOVI/ - solution
+http://vn.spoj.com/problems/VMTRIP/ - solution
+http://vn.spoj.com/problems/VOSCUN/ - solution
+http://vn.spoj.com/problems/C11POST/ - solution
+http://vn.spoj.com/problems/VOSTOUR/ - solution
+----------------------------------------------------------------
+http://vn.spoj.com/problems/TPMOVE
+http://vn.spoj.com/problems/MAR
+http://vn.spoj.com/problems/COLLECT
+
+Cây khung (Kruskal + Prim)
+http://www.spoj.com/problems/MST/ - vn - solution - code
+http://vn.spoj.com/problems/NKCITY/ - solution - code
+http://vn.spoj.com/problems/QBMST/ - solution - code
+http://vn.spoj.com/problems/IOIBIN/ - solution - code
+http://vn.spoj.com/problems/FWATER/ - solution - code
+http://vn.spoj.com/problems/NKRACING/ - solution - code
+http://vn.spoj.com/problems/AZNET/ - solution - code
+http://vn.spoj.com/problems/VNEMPIRE/ - solution - code
+http://vn.spoj.com/problems/CHEER/ - solution - code
+http://vn.spoj.com/problems/COMNET/ - code
+
+Đường đi ngắn nhất (Dijkstra)
+http://vn.spoj.com/problems/FLOYD/ - solution - code
+http://www.spoj.com/problems/EZDIJKST/ - vn - solution - code
+http://vn.spoj.com/problems/QBSCHOOL/ - solution - code
+http://vn.spoj.com/problems/BESTSPOT/ - solution - code
+http://vn.spoj.com/problems/VDANGER/ - solution - code
+http://vn.spoj.com/problems/TTRIP/ - solution - code
+http://vn.spoj.com/problems/QBBUILD/ - solution - code
+http://vn.spoj.com/problems/CENTRE28/ - solution - code
+http://vn.spoj.com/problems/NETACCEL/ - solution - code
+http://vn.spoj.com/problems/TRAFFICN/ - en - solution - code
+http://vn.spoj.com/problems/REVAMP/ - solution - code
+http://vn.spoj.com/problems/GONDOR/ -en-vn - solution- code
+http://vn.spoj.com/problems/QBROBOT/ - solution - code
+http://vn.spoj.com/problems/PWRFAIL/ - solution - code
+http://vn.spoj.com/problems/XUCXAC/ - solution - code
+http://vn.spoj.com/problems/BINLADEN/ - en - solution - code
+http://vn.spoj.com/problems/DHFRBUS/ - solution - code
+http://vn.spoj.com/problems/V8SORT/ - solution - code
+http://vn.spoj.com/problems/PBCWATER/ - solution - code
+http://vn.spoj.com/problems/DHSERV/ - solution - code
+http://www.spoj.com/problems/SHPATH/ - code
+http://vn.spoj.com/problems/SUMS - solution
+http://vn.spoj.com/problems/MELE2 - solution
+
+Chu trình Euler / Hamilton
+http://vn.spoj.com/problems/NKPOS - solution
+http://vn.spoj.com/problems/PCYCLE - solution
+
+Thuật toán Tarjan 
+Cầu khớp - Liên thông mạnh - Song liên thông
+http://vn.spoj.com/problems/GRAPH_/ - solution - code
+http://vn.spoj.com/problems/WEATHER/ - solution - code
+http://vn.spoj.com/problems/CRITICAL - solution
+http://vn.spoj.com/problems/TJALG/ - solution1,2 - code1,2
+http://vn.spoj.com/problems/NKONEARC/ - solution - code
+http://vn.spoj.com/problems/MESSAGE/ - solution - code
+http://vn.spoj.com/problems/NUMBER/ - solution - code
+http://vn.spoj.com/problems/NKPOLICE/ - solution - code
+http://vn.spoj.com/problems/TREAT/ - solution - code
+http://vn.spoj.com/problems/SAFENET2/ - solution - code
+http://vn.spoj.com/problems/REFORM/ - solution - code
+
+Luồng và Bộ ghép 
+http://vn.spoj.com/problems/NKFLOW/ - solution - code
+http://vn.spoj.com/problems/MATCH1/ - solution - code
+http://vn.spoj.com/problems/NKBM/ - solution - code
+http://vn.spoj.com/problems/ASSIGN1/ - solution - code
+http://vn.spoj.com/problems/MATCH2/ - solution - code
+Tìm phủ đỉnh nhỏ nhất trong đồ thị hai phía - code
+http://vn.spoj.com/problems/FLOW1/ - solution - code
+http://vn.spoj.com/problems/VM15SWAP/ - solution
+
+Khác
+http://vn.spoj.com/problems/ANT/ - solution - code
+http://vn.spoj.com/problems/AUCTION/ - solution - code
+http://vn.spoj.com/problems/BASEH/ - solution - code
+http://www.spoj.com/problems/PALIN/ - solution - code
+http://vn.spoj.com/problems/VMCUT2/ - solution
+http://vn.spoj.com/problems/VMCIRCLE/ - solution
+http://vn.spoj.com/problems/VMGROUP2/ - solution
+http://vn.spoj.com/problems/VMTOWN/ - solution
+http://vn.spoj.com/problems/VMSQUARE/ - solution
+http://vn.spoj.com/problems/VMSHAPE/ - solution
+http://vn.spoj.com/problems/VMSUM2/ - solution
+http://vn.spoj.com/problems/VMSALARY/ - solution
+http://vn.spoj.com/problems/VMSEQ/ - solution
+http://vn.spoj.com/problems/VMSUBSTR/ - solution
+http://vn.spoj.com/problems/VMKEY/ - solution
+http://vn.spoj.com/problems/VMFOUR/ - solution
+http://vn.spoj.com/problems/VMFLOW/ - solution
+http://vn.spoj.com/problems/VMECLIP/ - solution
+http://vn.spoj.com/problems/NK2MFS/ - solution - code
+
+http://vn.spoj.com/problems/STRHFI - solution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
